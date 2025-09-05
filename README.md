@@ -74,5 +74,10 @@ A complete Termux setup script to install essential packages, languages, utiliti
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/termux-setup-tool.git
-   cd termux-setup-tool
+   apt update
+   apt upgrade
+   pkg install python
+   pkg install git
+   git clone https://github.com/MrRock-404/Termux-Setup-Tools
+   cd Termux-Setup-Tools
+   python.setup.py
