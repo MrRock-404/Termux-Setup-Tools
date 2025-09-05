@@ -80,4 +80,4 @@ A complete Termux setup script to install essential packages, languages, utiliti
    pkg install git
    git clone https://github.com/MrRock-404/Termux-Setup-Tools
    cd Termux-Setup-Tools
-   python.setup.py
+   python setup.py
