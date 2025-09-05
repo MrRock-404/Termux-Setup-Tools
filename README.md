@@ -81,3 +81,6 @@ A complete Termux setup script to install essential packages, languages, utiliti
    git clone https://github.com/MrRock-404/Termux-Setup-Tools
    cd Termux-Setup-Tools
    python setup.py
+
+
+💚 **Thanks Use My Termux Setup Command Bro 🤟🔥🚀**
