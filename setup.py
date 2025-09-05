@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+#-*-coding:utf-8-*-
 ####  THIS TOOL MAKE BY SAIKOT
 ####  ENJOY MY TOOLS
 #### Create Date 5 Sep 2025
